@@ -223,9 +223,14 @@ jupyter notebook netflix_analysis.ipynb
 
 ---
 
-## 📄 License
+## ⚖️ License & Intellectual Property
 
-This project is open source and available under the [MIT License](LICENSE).
+**Copyright © 2026 Mahmoud Shamoun.** All rights reserved.
+
+This project, including all code (`.ipynb`), data cleaning strategies, and custom visualizations, is the exclusive intellectual property of **Mahmoud Shamoun**.
+
+* **Usage:** This repository is published for portfolio demonstration purposes only. 
+* **Restrictions:** Unauthorized copying, modification, or redistribution of this work, in whole or in part, for commercial or personal use without prior written consent from the author is strictly prohibited.
 
 ---
 
