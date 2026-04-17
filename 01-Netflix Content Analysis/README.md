@@ -43,8 +43,7 @@ This project performs a comprehensive analysis of Netflix's content library usin
 
 | Property | Value |
 |---|---|
-| **File** | [netflix1.csv](https://github.com/user-attachments/files/26836430/netflix1.csv)
-` |
+| **File** | [netflix1.csv](https://github.com/user-attachments/files/26836430/netflix1.csv)|
 | **Rows** | 8,790 titles |
 | **Columns** | 12 (show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description) |
 | **Content Types** | Movies & TV Shows |
