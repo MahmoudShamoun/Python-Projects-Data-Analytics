@@ -43,7 +43,6 @@ This project performs a comprehensive analysis of Netflix's content library usin
 
 | Property | Value |
 |---|---|
-| **Source** | [Netflix Titles — Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
 | **File** | `netflix1.csv` |
 | **Rows** | 8,790 titles |
 | **Columns** | 12 (show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description) |
