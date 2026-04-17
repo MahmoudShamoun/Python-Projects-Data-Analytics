@@ -43,7 +43,7 @@ This project performs a comprehensive analysis of Netflix's content library usin
 
 | Property | Value |
 |---|---|
-| **File** | `netflix1.csv` |
+| **File** | [Netflix.csv](https://github.com/user-attachments/files/26836430/netflix1.csv)|
 | **Rows** | 8,790 titles |
 | **Columns** | 12 (show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description) |
 | **Content Types** | Movies & TV Shows |
@@ -223,9 +223,14 @@ jupyter notebook netflix_analysis.ipynb
 
 ---
 
-## 📄 License
+## ⚖️ License & Intellectual Property
 
-This project is open source and available under the [MIT License](LICENSE).
+**Copyright © 2026 Mahmoud Shamoun.** All rights reserved.
+
+This project, including all code (`.ipynb`), data cleaning strategies, and custom visualizations, is the exclusive intellectual property of **Mahmoud Shamoun**.
+
+* **Usage:** This repository is published for portfolio demonstration purposes only. 
+* **Restrictions:** Unauthorized copying, modification, or redistribution of this work, in whole or in part, for commercial or personal use without prior written consent from the author is strictly prohibited.
 
 ---
 
